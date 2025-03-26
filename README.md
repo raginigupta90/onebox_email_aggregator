@@ -68,7 +68,7 @@ OPENAI_API_KEY=your_actual_api_key_here
 ## Installation
 1. Clone the repository:
 bash
-git clone https://github.com/your-username/onebox-email-aggregator.git
+git clone https://github.com/raginigupta90/onebox_email_aggregator.git
 cd onebox-email-aggregator
 
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contact
-For any inquiries, please contact your-raginigupta523@gmail.com.
+For any inquiries, please contact- raginigupta523@gmail.com.
 
 
 For Better Understanding refer this video: https://drive.google.com/drive/folders/1peI2hBagGwiyRyzLECsLnK59midMg8qS?usp=sharing
