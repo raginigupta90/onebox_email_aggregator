@@ -61,7 +61,6 @@ ELASTICSEARCH_HOST=http://localhost:9200
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/your-webhook-url
 
 OPENAI_API_KEY=your_actual_api_key_here
-PORT=5000
 
 
 ---
