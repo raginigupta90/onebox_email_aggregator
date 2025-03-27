@@ -60,7 +60,12 @@ IMAP_PASS=jlzs cgfi kcqq mnlg
 ELASTICSEARCH_HOST=http://localhost:9200
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/your-webhook-url
 
-OPENAI_API_KEY=your_actual_api_key_here
+
+PORT=5000
+OPENAI_API_KEY=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
+PINECONE_API_KEY=https://pineapikey-p57qjeh.svc.aped-4627-b74a.pinecone.io
+PINECONE_ENVIRONMENT=us-east-1
+PINECONE_INDEX=pineapikey
 
 
 ---
